@@ -1,5 +1,5 @@
 # The24Challenge
-Challenge myself working projects with 24 technologies in 2018
+Challenge myself working projects with 24 technologies in 2019
 
 Below is the list of technologies covered in this series:
 
@@ -90,6 +90,5 @@ Below is the list of technologies covered in this series:
 43. **[Week 43: December 26, 2016](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/43-graphql)** [GraphQL - building a pokedex in React with GraphQL](https://github.com/shekhargulati/52-technologies-in-2016/blob/master/43-graphql/README.md): [GraphQL](http://graphql.org), a query language that is starting to get more and more attention. Facebook, who internally used GraphQL since 2012 and released a first specification and reference implementation of GraphQL in 2015 announced GraphQL to be [production ready] in September 2016. What followed is a trend of more and more companies starting to use GraphQL, such as GitHub, Coursera and Shopify.
 
 -----------
-You can follow me on twitter at [https://twitter.com/shekhargulati](https://twitter.com/shekhargulati) or email me at <shekhargulati84@gmail.com>. Also, you can read my blogs at [http://shekhargulati.com/](http://shekhargulati.com/)
+email me at <badrvkacimi@gmail.com>. Also, you can read my blogs at [https://medium.com/@badrvkacimi](https://medium.com/@badrvkacimi)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-59411913-2/shekhargulati/52-technologies-in-2016)](https://github.com/igrigorik/ga-beacon)
