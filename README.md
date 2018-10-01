@@ -13,7 +13,7 @@ Below is the list of technologies covered in this series:
 
 4. [: February 28, 2019](https://github.com/shekhargulati/52-technologies-in-2019/tree/master/09-cloudvision) [Realtime People Counter with Google's Cloud Vision API and RxJava](https://github.com/shekhargulati/52-technologies-in-2019/tree/master/09-cloudvision/README.md). Google recently released Cloud Vision API that enables developers to incorporate image recognition in their applications. Image Recognition allow developers to build applications that can understand content of images.  In this tutorial, we will learn how to build a realtime people counter.
 
-5. [: March 13, 2019** [TextBlob](https://github.com/shekhargulati/52-technologies-in-2019/tree/master/11-textblob/README.md). TextBlob is an open source text processing library written in Python. It can be used to perform various natural language processing tasks such as part-of-speech tagging, noun-phrase extraction, sentiment analysis, text translation, and many more.
+5. [: March 13, 2019] [TextBlob](https://github.com/shekhargulati/52-technologies-in-2019/tree/master/11-textblob/README.md). TextBlob is an open source text processing library written in Python. It can be used to perform various natural language processing tasks such as part-of-speech tagging, noun-phrase extraction, sentiment analysis, text translation, and many more.
 
 6. [: April 03, 2019](https://github.com/shekhargulati/52-technologies-in-2019/tree/master/14-kafka) [Apache Kafka](https://github.com/shekhargulati/52-technologies-in-2019/tree/master/14-kafka/README.md). I have not yet written this article.
 
