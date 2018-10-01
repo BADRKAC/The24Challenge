@@ -1,4 +1,4 @@
-[![GitHub Stats](https://img.shields.io/badge/github-stats-brightgreen.svg)](http://githubstats.com/shekhargulati/52-technologies-in-2016)
+[![GitHub Stats](https://img.shields.io/badge/github-stats-brightgreen.svg)](http://githubstats.com/The24Challenge)
 
 # The24Challenge
 Challenge myself working projects with 24 technologies in 2019
